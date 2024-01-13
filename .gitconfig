@@ -1,0 +1,7 @@
+[user]
+	email = agilmozzi@gmail.com
+	name = Andrea Gilmozzi
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
