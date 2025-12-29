@@ -1,7 +1,9 @@
 [user]
-	email = agilmozzi@gmail.com
-	name = Andrea Gilmozzi
-[credential]
-	helper = store
+    email = agilmozzi@gmail.com
+    name = Andrea Gilmozzi
 [init]
-	defaultBranch = main
+    defaultBranch = main
+[url "git@github.com:"]
+    insteadOf = https://github.com/
+    insteadOf = http://github.com/
+
